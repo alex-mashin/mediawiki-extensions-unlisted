@@ -1,0 +1,675 @@
+[submodule "EAJP"]
+	path = EAJP
+	url = https://phabricator.wikimedia.org/diffusion/EAJP/
+[submodule "mediawiki-extensions-AVIF"]
+	path = mediawiki-extensions-AVIF
+	url = https://github.com/tesinormed/mediawiki-extensions-AVIF
+[submodule "ABCNotation"]
+	path = ABCNotation
+	url = https://github.com/WolfgangFahl/ABCNotation
+[submodule "mediawiki-extensions-AddImgTag"]
+	path = mediawiki-extensions-AddImgTag
+	url = https://github.com/TopRealm/mediawiki-extensions-AddImgTag
+[submodule "MediaWiki-Extension-AgeClassification"]
+	path = MediaWiki-Extension-AgeClassification
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-AgeClassification
+[submodule "AuthRemoteUser"]
+	path = AuthRemoteUser
+	url = https://github.com/oetterer/AuthRemoteUser
+[submodule "mediawiki-extensions-CBxHandler"]
+	path = mediawiki-extensions-CBxHandler
+	url = https://github.com/arabdigitalexpression/mediawiki-extensions-CBxHandler
+[submodule "CodexExample"]
+	path = CodexExample
+	url = https://gitlab.wikimedia.org/repos/design-systems/CodexExample
+[submodule "ColorizerToolVE"]
+	path = ColorizerToolVE
+	url = https://github.com/Griboedow/ColorizerToolVE
+[submodule "mw-convertPDF2Wiki"]
+	path = mw-convertPDF2Wiki
+	url = https://github.com/neayi/mw-convertPDF2Wiki
+[submodule "CrawlerProtection"]
+	path = CrawlerProtection
+	url = https://github.com/mywikis/CrawlerProtection
+[submodule "CustomRecentChanges"]
+	path = CustomRecentChanges
+	url = https://github.com/wikifab/CustomRecentChanges
+[submodule "mediawiki-extensions-DISPLAYCAT"]
+	path = mediawiki-extensions-DISPLAYCAT
+	url = https://github.com/tesinormed/mediawiki-extensions-DISPLAYCAT
+[submodule "mediawiki-extensions-DataMaps"]
+	path = mediawiki-extensions-DataMaps
+	url = https://github.com/alex4401/mediawiki-extensions-DataMaps
+[submodule "DiscourseSsoConsumer"]
+	path = DiscourseSsoConsumer
+	url = https://github.com/centertap/DiscourseSsoConsumer
+[submodule "MediaWiki-Extension-DonateButton"]
+	path = MediaWiki-Extension-DonateButton
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-DonateButton
+[submodule "mw-echarts"]
+	path = mw-echarts
+	url = https://github.com/Neayi/mw-echarts
+[submodule "mediawiki-EPSG"]
+	path = mediawiki-EPSG
+	url = https://github.com/WouterRademaker/mediawiki-EPSG
+[submodule "mediawiki-extensions-EditCountNeue"]
+	path = mediawiki-extensions-EditCountNeue
+	url = https://github.com/AlPha5130/mediawiki-extensions-EditCountNeue
+[submodule "EditNoticePF"]
+	path = EditNoticePF
+	url = https://git.average.name/BlankEclair/EditNoticePF
+[submodule "EmailLogger"]
+	path = EmailLogger
+	url = https://github.com/mywikis/EmailLogger
+[submodule "mediawiki-email-login"]
+	path = mediawiki-email-login
+	url = https://github.com/Archi-Strasbourg/mediawiki-email-login
+[submodule "mediawiki-emailuser-html"]
+	path = mediawiki-emailuser-html
+	url = https://github.com/Archi-Strasbourg/mediawiki-emailuser-html
+[submodule "mediawiki-extensions-EmbedVideo"]
+	path = mediawiki-extensions-EmbedVideo
+	url = https://github.com/StarCitizenWiki/mediawiki-extensions-EmbedVideo
+[submodule "mediawiki-extensions-examples"]
+	path = mediawiki-extensions-examples
+	url = https://github.com/wikimedia/mediawiki-extensions-examples
+[submodule "ExcludeRandom"]
+	path = ExcludeRandom
+	url = https://github.com/Majr25/ExcludeRandom
+[submodule "ExternalImage"]
+	path = ExternalImage
+	url = https://github.com/jgnoonan/ExternalImage
+[submodule "mediawiki-extensions-FileApi"]
+	path = mediawiki-extensions-FileApi
+	url = https://github.com/OpenSemanticLab/mediawiki-extensions-FileApi
+[submodule "FindRefs"]
+	path = FindRefs
+	url = https://github.com/SrikarKashyap/FindRefs
+[submodule "FlexiblePrefix"]
+	path = FlexiblePrefix
+	url = https://github.com/Gittenburg/FlexiblePrefix
+[submodule "FlickrImporter"]
+	path = FlickrImporter
+	url = https://github.com/samwilson/FlickrImporter
+[submodule "ForceTocOnEveryPage"]
+	path = ForceTocOnEveryPage
+	url = https://github.com/jmnote/ForceTocOnEveryPage
+[submodule "mediawiki-extensions-GLTFHandler"]
+	path = mediawiki-extensions-GLTFHandler
+	url = https://github.com/Muqsit/mediawiki-extensions-GLTFHandler
+[submodule "GNDShow"]
+	path = GNDShow
+	url = https://github.com/julianhocker/GNDShow
+[submodule "MediaWiki-extensions-GetUserName"]
+	path = MediaWiki-extensions-GetUserName
+	url = https://github.com/Wikimedica/MediaWiki-extensions-GetUserName
+[submodule "GlobalNewFiles"]
+	path = GlobalNewFiles
+	url = https://github.com/Miraheze/GlobalNewFiles
+[submodule "GoogleForms"]
+	path = GoogleForms
+	url = https://git.average.name/BlankEclair/GoogleForms
+[submodule "GoogleKnowledgeGraph"]
+	path = GoogleKnowledgeGraph
+	url = https://github.com/Griboedow/GoogleKnowledgeGraph
+[submodule "mediawiki-GoogleRichCards"]
+	path = mediawiki-GoogleRichCards
+	url = https://github.com/teran/mediawiki-GoogleRichCards
+[submodule "EHFO"]
+	path = EHFO
+	url = https://phabricator.wikimedia.org/diffusion/EHFO/
+[submodule "HeaderCount"]
+	path = HeaderCount
+	url = https://github.com/elifoster/HeaderCount
+[submodule "Mediawiki-Extension-HeaderExtension"]
+	path = Mediawiki-Extension-HeaderExtension
+	url = https://github.com/WikiMANNia/Mediawiki-Extension-HeaderExtension
+[submodule "Mediawiki-HeaderSections"]
+	path = Mediawiki-HeaderSections
+	url = https://github.com/DerfJagged/Mediawiki-HeaderSections
+[submodule "HideSection"]
+	path = HideSection
+	url = https://github.com/labster/HideSection
+[submodule "HideSidebar"]
+	path = HideSidebar
+	url = https://github.com/mywikis/HideSidebar
+[submodule "HighlightLinksInCategory"]
+	path = HighlightLinksInCategory
+	url = https://github.com/labster/HighlightLinksInCategory
+[submodule "Highlightjs_Integration"]
+	path = Highlightjs_Integration
+	url = https://github.com/Nicolas01/Highlightjs_Integration
+[submodule "HitCounters2"]
+	path = HitCounters2
+	url = https://github.com/redbluegreenhat/HitCounters2
+[submodule "Hypothesis"]
+	path = Hypothesis
+	url = https://github.com/yaronkoren/Hypothesis
+[submodule "IdGenerator"]
+	path = IdGenerator
+	url = https://github.com/ProfessionalWiki/IdGenerator
+[submodule "IDProvider"]
+	path = IDProvider
+	url = https://github.com/gesinn-it/IDProvider
+[submodule "IIIF"]
+	path = IIIF
+	url = https://github.com/a-g-van-hamel-foundation/IIIF
+[submodule "IPBAuthLogin"]
+	path = IPBAuthLogin
+	url = https://github.com/peerau/IPBAuthLogin
+[submodule "mediawiki-extensions-IPInfoFilter"]
+	path = mediawiki-extensions-IPInfoFilter
+	url = https://github.com/harugon/mediawiki-extensions-IPInfoFilter
+[submodule "mediawiki-ifmobile-extention"]
+	path = mediawiki-ifmobile-extention
+	url = https://github.com/stanolacko/mediawiki-ifmobile-extention
+[submodule "Iframe"]
+	path = Iframe
+	url = https://github.com/sigbertklinke/Iframe
+[submodule "mediawiki-iframe"]
+	path = mediawiki-iframe
+	url = https://github.com/hexmode/mediawiki-iframe
+[submodule "ImageSlider"]
+	path = ImageSlider
+	url = https://github.com/kristbaum/ImageSlider
+[submodule "ImagesLoaded"]
+	path = ImagesLoaded
+	url = https://github.com/enterprisemediawiki/ImagesLoaded
+[submodule "ImportDump"]
+	path = ImportDump
+	url = https://github.com/Miraheze/ImportDump
+[submodule "Inference"]
+	path = Inference
+	url = https://github.com/jeblad/Inference
+[submodule "mediawiki-extensions-Info"]
+	path = mediawiki-extensions-Info
+	url = https://github.com/suriyaa/mediawiki-extensions-Info
+[submodule "mediawiki-extensions-InteractiveSemanticGraph"]
+	path = mediawiki-extensions-InteractiveSemanticGraph
+	url = https://github.com/OpenSemanticLab/mediawiki-extensions-InteractiveSemanticGraph
+[submodule "InteractiveTimeline"]
+	path = InteractiveTimeline
+	url = https://github.com/TheWatcher/InteractiveTimeline
+[submodule "mediawiki-internalwhitelist"]
+	path = mediawiki-internalwhitelist
+	url = https://github.com/staspika/mediawiki-internalwhitelist
+[submodule "InterwikiDispatcher"]
+	path = InterwikiDispatcher
+	url = https://github.com/Markus-Rost/InterwikiDispatcher
+[submodule "mediawiki-extension-JQuerySnowfall"]
+	path = mediawiki-extension-JQuerySnowfall
+	url = https://github.com/Nicolas01/mediawiki-extension-JQuerySnowfall
+[submodule "javascriptslideshow"]
+	path = javascriptslideshow
+	url = https://gitlab.com/hydrawiki/extensions/javascriptslideshow/
+[submodule "mediawiki-extension-JsCalendar"]
+	path = mediawiki-extension-JsCalendar
+	url = https://github.com/edwardspec/mediawiki-extension-JsCalendar
+[submodule "JsonToTemplate"]
+	path = JsonToTemplate
+	url = https://github.com/dfgomeza/JsonToTemplate
+[submodule "Katsa"]
+	path = Katsa
+	url = https://github.com/jeblad/Katsa
+[submodule "KnowledgeGraph"]
+	path = KnowledgeGraph
+	url = https://github.com/SemanticMediaWiki/KnowledgeGraph
+[submodule "mediawiki-kroki-extension"]
+	path = mediawiki-kroki-extension
+	url = https://github.com/CptLausebaer/mediawiki-kroki-extension
+[submodule "mediawiki-LdapAuth"]
+	path = mediawiki-LdapAuth
+	url = https://github.com/shanept/mediawiki-LdapAuth
+[submodule "mediawiki-linebreaks-extension"]
+	path = mediawiki-linebreaks-extension
+	url = https://github.com/dli7319/mediawiki-linebreaks-extension
+[submodule "LinkAttributes"]
+	path = LinkAttributes
+	url = https://github.com/stanolacko/LinkAttributes
+[submodule "LinkGuesser"]
+	path = LinkGuesser
+	url = https://github.com/mywikis/LinkGuesser
+[submodule "LinkTitles"]
+	path = LinkTitles
+	url = https://github.com/bovender/LinkTitles
+[submodule "mediawiki-link-to-archive"]
+	path = mediawiki-link-to-archive
+	url = https://github.com/Archi-Strasbourg/mediawiki-link-to-archive
+[submodule "LuaCollections"]
+	path = LuaCollections
+	url = https://github.com/jeblad/LuaCollections
+[submodule "LuaLexer"]
+	path = LuaLexer
+	url = https://github.com/jeblad/LuaLexer
+[submodule "MWUnit"]
+	path = MWUnit
+	url = https://github.com/26/MWUnit
+[submodule "mediawiki-extensions-MagicLinkAuthentication"]
+	path = mediawiki-extensions-MagicLinkAuthentication
+	url = https://github.com/wikimedia/mediawiki-extensions-MagicLinkAuthentication
+[submodule "MasonryMainPage"]
+	path = MasonryMainPage
+	url = https://github.com/enterprisemediawiki/MasonryMainPage
+[submodule "mediawiki-mathjax"]
+	path = mediawiki-mathjax
+	url = https://github.com/xeyownt/mediawiki-mathjax
+[submodule "Mendeley"]
+	path = Mendeley
+	url = https://github.com/nischayn22/Mendeley
+[submodule "mediawiki-extension-Metrica"]
+	path = mediawiki-extension-Metrica
+	url = https://github.com/vedmaka/mediawiki-extension-Metrica
+[submodule "mediawiki-extensions-MigrateUserAccount"]
+	path = mediawiki-extensions-MigrateUserAccount
+	url = https://github.com/weirdgloop/mediawiki-extensions-MigrateUserAccount
+[submodule "mediawiki-extension-minervamenu"]
+	path = mediawiki-extension-minervamenu
+	url = https://gitlab.com/martinpham/mediawiki-extension-minervamenu/
+[submodule "Mirador"]
+	path = Mirador
+	url = https://github.com/a-g-van-hamel-foundation/Mirador
+[submodule "ModDoc"]
+	path = ModDoc
+	url = https://github.com/jeblad/ModDoc
+[submodule "ModernTimeline"]
+	path = ModernTimeline
+	url = https://github.com/ProfessionalWiki/ModernTimeline
+[submodule "mediawiki-MultiTitle"]
+	path = mediawiki-MultiTitle
+	url = https://github.com/tbodt/mediawiki-MultiTitle
+[submodule "mediawiki-extension-Mustache_i18n"]
+	path = mediawiki-extension-Mustache_i18n
+	url = https://github.com/vedmaka/mediawiki-extension-Mustache_i18n
+[submodule "mediawiki-nbbc-bbcode"]
+	path = mediawiki-nbbc-bbcode
+	url = https://github.com/lairdshaw/mediawiki-nbbc-bbcode
+[submodule "NamespaceData"]
+	path = NamespaceData
+	url = https://github.com/BorderCloud/NamespaceData
+[submodule "NaylorAMS"]
+	path = NaylorAMS
+	url = https://github.com/mywikis/NaylorAMS
+[submodule "NewArticleTemplates"]
+	path = NewArticleTemplates
+	url = https://github.com/jmnote/NewArticleTemplates
+[submodule "NewPageCSS"]
+	path = NewPageCSS
+	url = https://github.com/MWStake/NewPageCSS
+[submodule "NewPageTemplateSelector"]
+	path = NewPageTemplateSelector
+	url = https://github.com/Griboedow/NewPageTemplateSelector
+[submodule "NiceCategoryList3"]
+	path = NiceCategoryList3
+	url = https://github.com/JLTRY/NiceCategoryList3
+[submodule "mediawiki-nostr-auth"]
+	path = mediawiki-nostr-auth
+	url = https://github.com/Trustroots/mediawiki-nostr-auth
+[submodule "MW-OAuth2Client"]
+	path = MW-OAuth2Client
+	url = https://github.com/Schine/MW-OAuth2Client
+[submodule "OfflineExtension"]
+	path = OfflineExtension
+	url = https://github.com/Srijancse-zz/OfflineExtension
+[submodule "mediawiki-extensions-OpenSemanticLab"]
+	path = mediawiki-extensions-OpenSemanticLab
+	url = https://github.com/OpenSemanticLab/mediawiki-extensions-OpenSemanticLab
+[submodule "OreDict"]
+	path = OreDict
+	url = https://github.com/FTB-Gamepedia/OreDict
+[submodule "OttrParserExtension"]
+	path = OttrParserExtension
+	url = https://github.com/Oliver-Tautz/OttrParserExtension
+[submodule "MediaWiki-pChart4mw"]
+	path = MediaWiki-pChart4mw
+	url = https://github.com/redekopmark/MediaWiki-pChart4mw
+[submodule "MediaWiki_PHPBB_Auth"]
+	path = MediaWiki_PHPBB_Auth
+	url = https://github.com/Digitalroot-Technologies/MediaWiki_PHPBB_Auth
+[submodule "MediaWiki-extensions-PWA"]
+	path = MediaWiki-extensions-PWA
+	url = https://github.com/Wikimedica/MediaWiki-extensions-PWA
+[submodule "PageImporter"]
+	path = PageImporter
+	url = https://github.com/enterprisemediawiki/PageImporter
+[submodule "PageToGitHub"]
+	path = PageToGitHub
+	url = https://github.com/lucamauri/PageToGitHub
+[submodule "ParagraphLinks"]
+	path = ParagraphLinks
+	url = https://github.com/lucamauri/ParagraphLinks
+[submodule "ParseRequest"]
+	path = ParseRequest
+	url = https://github.com/a-g-van-hamel-foundation/ParseRequest
+[submodule "ParserPower"]
+	path = ParserPower
+	url = https://github.com/RheingoldRiver/ParserPower
+[submodule "PeerTubeEmbed"]
+	path = PeerTubeEmbed
+	url = https://codeberg.org/YellowComet/PeerTubeEmbed
+[submodule "mwpgnjs"]
+	path = mwpgnjs
+	url = https://github.com/xeyownt/mwpgnjs
+[submodule "MW-PinyinSort"]
+	path = MW-PinyinSort
+	url = https://github.com/nbdd0121/MW-PinyinSort
+[submodule "mw-Piwigo"]
+	path = mw-Piwigo
+	url = https://github.com/neayi/mw-Piwigo
+[submodule "Piwo"]
+	path = Piwo
+	url = https://github.com/Kenny2github/Piwo
+[submodule "Pluso"]
+	path = Pluso
+	url = https://github.com/AlexandrEfremov/Pluso
+[submodule "PortableInfobox"]
+	path = PortableInfobox
+	url = https://github.com/Universal-Omega/PortableInfobox
+[submodule "PropChainsHelper"]
+	path = PropChainsHelper
+	url = https://github.com/mfalda/PropChainsHelper
+[submodule "PubmedParser"]
+	path = PubmedParser
+	url = https://github.com/bovender/PubmedParser
+[submodule "Pyembed"]
+	path = Pyembed
+	url = https://github.com/sphynkx/Pyembed
+[submodule "mediawiki-extension-QuickUploadZone"]
+	path = mediawiki-extension-QuickUploadZone
+	url = https://github.com/j-yun/mediawiki-extension-QuickUploadZone
+[submodule "RDFIO"]
+	path = RDFIO
+	url = https://github.com/WikiValley/RDFIO
+[submodule "mediawiki-extensions-RawCSS"]
+	path = mediawiki-extensions-RawCSS
+	url = https://github.com/tesinormed/mediawiki-extensions-RawCSS
+[submodule "RecentActivity"]
+	path = RecentActivity
+	url = https://gitlab.com/lucamauri/RecentActivity/
+[submodule "ReconciliationAPI"]
+	path = ReconciliationAPI
+	url = https://github.com/a-g-van-hamel-foundation/ReconciliationAPI
+[submodule "RecordWizard"]
+	path = RecordWizard
+	url = https://github.com/lingua-libre/RecordWizard
+[submodule "MediaWiki-Extension-RefreshSiteStatsTable"]
+	path = MediaWiki-Extension-RefreshSiteStatsTable
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-RefreshSiteStatsTable
+[submodule "RemovePII"]
+	path = RemovePII
+	url = https://github.com/Miraheze/RemovePII
+[submodule "mediawikiRemoveRedlinks"]
+	path = mediawikiRemoveRedlinks
+	url = https://github.com/marohh/mediawikiRemoveRedlinks
+[submodule "RenderThumbnails"]
+	path = RenderThumbnails
+	url = https://github.com/samwilson/RenderThumbnails
+[submodule "MediaWiki-RestrictUserPageCreation"]
+	path = MediaWiki-RestrictUserPageCreation
+	url = https://github.com/DerfJagged/MediaWiki-RestrictUserPageCreation
+[submodule "mw-rtf"]
+	path = mw-rtf
+	url = https://gitlab.com/huntertur/mw-rtf/
+[submodule "Rules"]
+	path = Rules
+	url = https://github.com/ProfessionalWiki/Rules
+[submodule "SPARQL"]
+	path = SPARQL
+	url = https://github.com/ProfessionalWiki/SPARQL
+[submodule "MediaWiki-extensions-SaferHTMLTag"]
+	path = MediaWiki-extensions-SaferHTMLTag
+	url = https://github.com/Wikimedica/MediaWiki-extensions-SaferHTMLTag
+[submodule "Scopus"]
+	path = Scopus
+	url = https://github.com/nischayn22/Scopus
+[submodule "mw-ScratchBlocks4"]
+	path = mw-ScratchBlocks4
+	url = https://github.com/InternationalScratchWiki/mw-ScratchBlocks4
+[submodule "ScryfallLinks"]
+	path = ScryfallLinks
+	url = https://github.com/NilsEnevoldsen/ScryfallLinks
+[submodule "mediawiki-sections-count"]
+	path = mediawiki-sections-count
+	url = https://github.com/Archi-Strasbourg/mediawiki-sections-count
+[submodule "SecureInclude"]
+	path = SecureInclude
+	url = https://github.com/edeso/SecureInclude
+[submodule "SemanticApprovedRevs"]
+	path = SemanticApprovedRevs
+	url = https://github.com/SemanticMediaWiki/SemanticApprovedRevs
+[submodule "SemanticBreadcrumbLinks"]
+	path = SemanticBreadcrumbLinks
+	url = https://github.com/SemanticMediaWiki/SemanticBreadcrumbLinks
+[submodule "SemanticCite"]
+	path = SemanticCite
+	url = https://github.com/SemanticMediaWiki/SemanticCite
+[submodule "SemanticCompoundQueries"]
+	path = SemanticCompoundQueries
+	url = https://github.com/SemanticMediaWiki/SemanticCompoundQueries
+[submodule "SemanticExternalQueryLookup"]
+	path = SemanticExternalQueryLookup
+	url = https://github.com/SemanticMediaWiki/SemanticExternalQueryLookup
+[submodule "SemanticExtraSpecialProperties"]
+	path = SemanticExtraSpecialProperties
+	url = https://github.com/SemanticMediaWiki/SemanticExtraSpecialProperties
+[submodule "SemanticFormsSelect"]
+	path = SemanticFormsSelect
+	url = https://github.com/SemanticMediaWiki/SemanticFormsSelect
+[submodule "SemanticImageCaption"]
+	path = SemanticImageCaption
+	url = https://github.com/SemanticMediaWiki/SemanticImageCaption
+[submodule "SemanticInterlanguageLinks"]
+	path = SemanticInterlanguageLinks
+	url = https://github.com/SemanticMediaWiki/SemanticInterlanguageLinks
+[submodule "SemanticMediaWiki"]
+	path = SemanticMediaWiki
+	url = https://github.com/SemanticMediaWiki/SemanticMediaWiki
+[submodule "Semantic-MediaWiki-Graph"]
+	path = Semantic-MediaWiki-Graph
+	url = https://github.com/krabina/Semantic-MediaWiki-Graph
+[submodule "SemanticMetaTags"]
+	path = SemanticMetaTags
+	url = https://github.com/SemanticMediaWiki/SemanticMetaTags
+[submodule "SemanticNotifications"]
+	path = SemanticNotifications
+	url = https://github.com/SemanticMediaWiki/SemanticNotifications
+[submodule "SemanticOLAP"]
+	path = SemanticOLAP
+	url = https://github.com/TobiasWeller/SemanticOLAP
+[submodule "SemanticOrganization"]
+	path = SemanticOrganization
+	url = https://github.com/thaider/SemanticOrganization
+[submodule "SemanticResultFormats"]
+	path = SemanticResultFormats
+	url = https://github.com/SemanticMediaWiki/SemanticResultFormats
+[submodule "SemanticScribunto"]
+	path = SemanticScribunto
+	url = https://github.com/SemanticMediaWiki/SemanticScribunto
+[submodule "SemanticStructuredDiscussions"]
+	path = SemanticStructuredDiscussions
+	url = https://github.com/WikibaseSolutions/SemanticStructuredDiscussions
+[submodule "SemanticActions"]
+	path = SemanticActions
+	url = https://github.com/enterprisemediawiki/SemanticActions
+[submodule "SemanticAuthProfiling"]
+	path = SemanticAuthProfiling
+	url = https://github.com/imolainformatica/SemanticAuthProfiling
+[submodule "SemanticDependencyUpdater"]
+	path = SemanticDependencyUpdater
+	url = https://github.com/gesinn-it-pub/SemanticDependencyUpdater
+[submodule "Shiny"]
+	path = Shiny
+	url = https://github.com/sigbertklinke/Shiny
+[submodule "MediawikiExtension-SimpleFooterLink"]
+	path = MediawikiExtension-SimpleFooterLink
+	url = https://github.com/AnnAngela/MediawikiExtension-SimpleFooterLink
+[submodule "Wikimedia-SimpleRadiusAuth"]
+	path = Wikimedia-SimpleRadiusAuth
+	url = https://github.com/mneitsabes/Wikimedia-SimpleRadiusAuth
+[submodule "SimpleSkins"]
+	path = SimpleSkins
+	url = https://github.com/jdlrobson/SimpleSkins
+[submodule "mediawiki-extension-SimpleTippy"]
+	path = mediawiki-extension-SimpleTippy
+	url = https://github.com/vedmaka/mediawiki-extension-SimpleTippy
+[submodule "SimpleTooltip"]
+	path = SimpleTooltip
+	url = https://github.com/Universal-Omega/SimpleTooltip
+[submodule "Mediawiki-Extension-SkinCustomiser"]
+	path = Mediawiki-Extension-SkinCustomiser
+	url = https://github.com/WikiMANNia/Mediawiki-Extension-SkinCustomiser
+[submodule "skinny"]
+	path = skinny
+	url = https://github.com/tinymighty/skinny
+[submodule "SlackNotifications"]
+	path = SlackNotifications
+	url = https://github.com/kulttuuri/SlackNotifications
+[submodule "SlashCommands"]
+	path = SlashCommands
+	url = https://github.com/ProfessionalWiki/SlashCommands
+[submodule "mediawiki-extensions-Slides"]
+	path = mediawiki-extensions-Slides
+	url = https://github.com/PascalNoisette/mediawiki-extensions-Slides
+[submodule "SmartComments"]
+	path = SmartComments
+	url = https://github.com/ArchiXL/SmartComments
+[submodule "SnapProjectEmbed"]
+	path = SnapProjectEmbed
+	url = https://github.com/snapwiki/SnapProjectEmbed
+[submodule "mw-snapblocks"]
+	path = mw-snapblocks
+	url = https://github.com/snap-blocks/mw-snapblocks
+[submodule "SparqlCharts"]
+	path = SparqlCharts
+	url = https://github.com/Wingoli/SparqlCharts
+[submodule "SparqlResultFormat"]
+	path = SparqlResultFormat
+	url = https://github.com/imolainformatica/SparqlResultFormat
+[submodule "mediawiki-Extension-SpecialUserScore"]
+	path = mediawiki-Extension-SpecialUserScore
+	url = https://github.com/nicjansma/mediawiki-Extension-SpecialUserScore
+[submodule "SpeciallyCursed"]
+	path = SpeciallyCursed
+	url = https://git.average.name/BlankEclair/SpeciallyCursed
+[submodule "Spoilers"]
+	path = Spoilers
+	url = https://github.com/Telshin/Spoilers
+[submodule "mediawiki-star-rating"]
+	path = mediawiki-star-rating
+	url = https://github.com/Hercle378/mediawiki-star-rating
+[submodule "MediaWiki-StripExifGPSData"]
+	path = MediaWiki-StripExifGPSData
+	url = https://github.com/DerfJagged/MediaWiki-StripExifGPSData
+[submodule "SwaggerDoc"]
+	path = SwaggerDoc
+	url = https://github.com/Griboedow/SwaggerDoc
+[submodule "Swiki"]
+	path = Swiki
+	url = https://github.com/vuhuy/Swiki
+[submodule "SyntaxHighlightPages"]
+	path = SyntaxHighlightPages
+	url = https://github.com/Gittenburg/SyntaxHighlightPages
+[submodule "SyntaxHighlightThemes"]
+	path = SyntaxHighlightThemes
+	url = https://github.com/kuenzign/SyntaxHighlightThemes
+[submodule "TableProgressTracking"]
+	path = TableProgressTracking
+	url = https://github.com/telepedia/TableProgressTracking
+[submodule "TemplateFunc"]
+	path = TemplateFunc
+	url = https://github.com/a-g-van-hamel-foundation/TemplateFunc
+[submodule "TemplateRest"]
+	path = TemplateRest
+	url = https://github.com/AndreasJonsson/TemplateRest
+[submodule "mediawiki-extensions-ThemeToggle"]
+	path = mediawiki-extensions-ThemeToggle
+	url = https://github.com/alex4401/mediawiki-extensions-ThemeToggle
+[submodule "mediawiki-third-party-session-verification"]
+	path = mediawiki-third-party-session-verification
+	url = https://github.com/ylhyra/mediawiki-third-party-session-verification
+[submodule "TikaAllTheFiles"]
+	path = TikaAllTheFiles
+	url = https://github.com/centertap/TikaAllTheFiles
+[submodule "Tilesheets"]
+	path = Tilesheets
+	url = https://github.com/FTB-Gamepedia/Tilesheets
+[submodule "TimedNotify"]
+	path = TimedNotify
+	url = https://github.com/WikibaseSolutions/TimedNotify
+[submodule "TimelineStats"]
+	path = TimelineStats
+	url = https://github.com/crocodilered/TimelineStats
+[submodule "TimezoneConverter"]
+	path = TimezoneConverter
+	url = https://github.com/samwilson/TimezoneConverter
+[submodule "TippingOver"]
+	path = TippingOver
+	url = https://github.com/oOeyes/TippingOver
+[submodule "ToDoList"]
+	path = ToDoList
+	url = https://github.com/Griboedow/ToDoList
+[submodule "TopLink"]
+	path = TopLink
+	url = https://github.com/mywikis/TopLink
+[submodule "UniquePageTitle"]
+	path = UniquePageTitle
+	url = https://github.com/idea-sketch/UniquePageTitle
+[submodule "UserHistory"]
+	path = UserHistory
+	url = https://github.com/rexem/UserHistory
+[submodule "userprofilev2"]
+	path = userprofilev2
+	url = https://gitlab.com/telepedia/extensions/userprofilev2/
+[submodule "VideoCache"]
+	path = VideoCache
+	url = https://code.librehq.com/ots/mediawiki/VideoCache/
+[submodule "VoiceCommander"]
+	path = VoiceCommander
+	url = https://github.com/TobiasWeller/VoiceCommander
+[submodule "mw-vote"]
+	path = mw-vote
+	url = https://git.push-f.com/mw-vote/
+[submodule "wsarrays"]
+	path = wsarrays
+	url = https://gitlab.wikibase.nl/community/wsarrays
+[submodule "WSSpaces"]
+	path = WSSpaces
+	url = https://github.com/Open-CSP/WSSpaces
+[submodule "Wiki2Ban"]
+	path = Wiki2Ban
+	url = https://github.com/lucamauri/Wiki2Ban
+[submodule "WikiBanHammer"]
+	path = WikiBanHammer
+	url = https://github.com/jehovahsays/WikiBanHammer
+[submodule "wikiguard"]
+	path = wikiguard
+	url = https://gitlab.wikibase.nl/community/wikiguard/
+[submodule "WikiMarkdown"]
+	path = WikiMarkdown
+	url = https://github.com/kuenzign/WikiMarkdown
+[submodule "mediawiki-extensions-wikioutliner"]
+	path = mediawiki-extensions-wikioutliner
+	url = https://github.com/thesophiaxu/mediawiki-extensions-wikioutliner
+[submodule "WikiPoints"]
+	path = WikiPoints
+	url = https://github.com/Tali64/WikiPoints
+[submodule "WikiRatingExtension"]
+	path = WikiRatingExtension
+	url = https://github.com/WikiToLearn/WikiRatingExtension
+[submodule "WikibaseConstraintViolationsExport"]
+	path = WikibaseConstraintViolationsExport
+	url = https://github.com/ProfessionalWiki/WikibaseConstraintViolationsExport
+[submodule "mediawiki-extensions-WikibaseInWikitext"]
+	path = mediawiki-extensions-WikibaseInWikitext
+	url = https://github.com/wbstack/mediawiki-extensions-WikibaseInWikitext
+[submodule "WikidataShow"]
+	path = WikidataShow
+	url = https://github.com/julianhocker/WikidataShow
+[submodule "MediaWiki-Extension-WimaAdvertising"]
+	path = MediaWiki-Extension-WimaAdvertising
+	url = https://github.com/WikiMANNia/MediaWiki-Extension-WimaAdvertising
+[submodule "Yambe"]
+	path = Yambe
+	url = https://github.com/sodevel/Yambe
+[submodule "ZWIMaker"]
+	path = ZWIMaker
+	url = https://gitlab.com/ks_found/ZWIMaker/
