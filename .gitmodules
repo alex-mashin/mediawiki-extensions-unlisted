@@ -208,9 +208,6 @@
 [submodule "JsonToTemplate"]
 	path = JsonToTemplate
 	url = https://github.com/dfgomeza/JsonToTemplate
-[submodule "Katsa"]
-	path = Katsa
-	url = https://github.com/jeblad/Katsa
 [submodule "KnowledgeGraph"]
 	path = KnowledgeGraph
 	url = https://github.com/SemanticMediaWiki/KnowledgeGraph
@@ -235,9 +232,6 @@
 [submodule "mediawiki-link-to-archive"]
 	path = mediawiki-link-to-archive
 	url = https://github.com/Archi-Strasbourg/mediawiki-link-to-archive
-[submodule "LuaCollections"]
-	path = LuaCollections
-	url = https://github.com/jeblad/LuaCollections
 [submodule "LuaLexer"]
 	path = LuaLexer
 	url = https://github.com/jeblad/LuaLexer
