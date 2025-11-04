@@ -436,9 +436,6 @@
 [submodule "SemanticCite"]
 	path = SemanticCite
 	url = https://github.com/SemanticMediaWiki/SemanticCite
-[submodule "SemanticCompoundQueries"]
-	path = SemanticCompoundQueries
-	url = https://github.com/SemanticMediaWiki/SemanticCompoundQueries
 [submodule "SemanticExternalQueryLookup"]
 	path = SemanticExternalQueryLookup
 	url = https://github.com/SemanticMediaWiki/SemanticExternalQueryLookup
