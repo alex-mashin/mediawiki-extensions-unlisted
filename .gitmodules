@@ -1,6 +1,3 @@
-[submodule "EAJP"]
-	path = EAJP
-	url = https://phabricator.wikimedia.org/diffusion/EAJP/
 [submodule "mediawiki-extensions-AVIF"]
 	path = mediawiki-extensions-AVIF
 	url = https://github.com/tesinormed/mediawiki-extensions-AVIF
