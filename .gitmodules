@@ -112,9 +112,6 @@
 [submodule "mediawiki-GoogleRichCards"]
 	path = mediawiki-GoogleRichCards
 	url = https://github.com/teran/mediawiki-GoogleRichCards
-[submodule "EHFO"]
-	path = EHFO
-	url = https://phabricator.wikimedia.org/diffusion/EHFO/
 [submodule "HeaderCount"]
 	path = HeaderCount
 	url = https://github.com/elifoster/HeaderCount
