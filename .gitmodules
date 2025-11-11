@@ -28,18 +28,12 @@
 [submodule "CrawlerProtection"]
 	path = CrawlerProtection
 	url = https://github.com/mywikis/CrawlerProtection
-[submodule "CustomRecentChanges"]
-	path = CustomRecentChanges
-	url = https://github.com/wikifab/CustomRecentChanges
 [submodule "mediawiki-extensions-DISPLAYCAT"]
 	path = mediawiki-extensions-DISPLAYCAT
 	url = https://github.com/tesinormed/mediawiki-extensions-DISPLAYCAT
 [submodule "mediawiki-extensions-DataMaps"]
 	path = mediawiki-extensions-DataMaps
 	url = https://github.com/alex4401/mediawiki-extensions-DataMaps
-[submodule "DiscourseSsoConsumer"]
-	path = DiscourseSsoConsumer
-	url = https://github.com/centertap/DiscourseSsoConsumer
 [submodule "MediaWiki-Extension-DonateButton"]
 	path = MediaWiki-Extension-DonateButton
 	url = https://github.com/WikiMANNia/MediaWiki-Extension-DonateButton
@@ -100,12 +94,6 @@
 [submodule "MediaWiki-extensions-GetUserName"]
 	path = MediaWiki-extensions-GetUserName
 	url = https://github.com/Wikimedica/MediaWiki-extensions-GetUserName
-[submodule "GlobalNewFiles"]
-	path = GlobalNewFiles
-	url = https://github.com/Miraheze/GlobalNewFiles
-[submodule "GoogleForms"]
-	path = GoogleForms
-	url = https://git.average.name/BlankEclair/GoogleForms
 [submodule "GoogleKnowledgeGraph"]
 	path = GoogleKnowledgeGraph
 	url = https://github.com/Griboedow/GoogleKnowledgeGraph
@@ -121,15 +109,9 @@
 [submodule "Mediawiki-HeaderSections"]
 	path = Mediawiki-HeaderSections
 	url = https://github.com/DerfJagged/Mediawiki-HeaderSections
-[submodule "HideSection"]
-	path = HideSection
-	url = https://github.com/labster/HideSection
 [submodule "HideSidebar"]
 	path = HideSidebar
 	url = https://github.com/mywikis/HideSidebar
-[submodule "HighlightLinksInCategory"]
-	path = HighlightLinksInCategory
-	url = https://github.com/labster/HighlightLinksInCategory
 [submodule "Highlightjs_Integration"]
 	path = Highlightjs_Integration
 	url = https://github.com/Nicolas01/Highlightjs_Integration
@@ -169,9 +151,6 @@
 [submodule "ImagesLoaded"]
 	path = ImagesLoaded
 	url = https://github.com/enterprisemediawiki/ImagesLoaded
-[submodule "ImportDump"]
-	path = ImportDump
-	url = https://github.com/Miraheze/ImportDump
 [submodule "Inference"]
 	path = Inference
 	url = https://github.com/jeblad/Inference
@@ -187,9 +166,6 @@
 [submodule "mediawiki-internalwhitelist"]
 	path = mediawiki-internalwhitelist
 	url = https://github.com/staspika/mediawiki-internalwhitelist
-[submodule "InterwikiDispatcher"]
-	path = InterwikiDispatcher
-	url = https://github.com/Markus-Rost/InterwikiDispatcher
 [submodule "mediawiki-extension-JQuerySnowfall"]
 	path = mediawiki-extension-JQuerySnowfall
 	url = https://github.com/Nicolas01/mediawiki-extension-JQuerySnowfall
@@ -220,9 +196,6 @@
 [submodule "LinkGuesser"]
 	path = LinkGuesser
 	url = https://github.com/mywikis/LinkGuesser
-[submodule "LinkTitles"]
-	path = LinkTitles
-	url = https://github.com/bovender/LinkTitles
 [submodule "mediawiki-link-to-archive"]
 	path = mediawiki-link-to-archive
 	url = https://github.com/Archi-Strasbourg/mediawiki-link-to-archive
@@ -259,9 +232,6 @@
 [submodule "ModDoc"]
 	path = ModDoc
 	url = https://github.com/jeblad/ModDoc
-[submodule "ModernTimeline"]
-	path = ModernTimeline
-	url = https://github.com/ProfessionalWiki/ModernTimeline
 [submodule "mediawiki-MultiTitle"]
 	path = mediawiki-MultiTitle
 	url = https://github.com/tbodt/mediawiki-MultiTitle
@@ -301,9 +271,6 @@
 [submodule "mediawiki-extensions-OpenSemanticLab"]
 	path = mediawiki-extensions-OpenSemanticLab
 	url = https://github.com/OpenSemanticLab/mediawiki-extensions-OpenSemanticLab
-[submodule "OreDict"]
-	path = OreDict
-	url = https://github.com/FTB-Gamepedia/OreDict
 [submodule "OttrParserExtension"]
 	path = OttrParserExtension
 	url = https://github.com/Oliver-Tautz/OttrParserExtension
@@ -328,9 +295,6 @@
 [submodule "ParseRequest"]
 	path = ParseRequest
 	url = https://github.com/a-g-van-hamel-foundation/ParseRequest
-[submodule "ParserPower"]
-	path = ParserPower
-	url = https://github.com/RheingoldRiver/ParserPower
 [submodule "PeerTubeEmbed"]
 	path = PeerTubeEmbed
 	url = https://codeberg.org/YellowComet/PeerTubeEmbed
@@ -349,9 +313,6 @@
 [submodule "Pluso"]
 	path = Pluso
 	url = https://github.com/AlexandrEfremov/Pluso
-[submodule "PortableInfobox"]
-	path = PortableInfobox
-	url = https://github.com/Universal-Omega/PortableInfobox
 [submodule "PropChainsHelper"]
 	path = PropChainsHelper
 	url = https://github.com/mfalda/PropChainsHelper
@@ -376,15 +337,9 @@
 [submodule "ReconciliationAPI"]
 	path = ReconciliationAPI
 	url = https://github.com/a-g-van-hamel-foundation/ReconciliationAPI
-[submodule "RecordWizard"]
-	path = RecordWizard
-	url = https://github.com/lingua-libre/RecordWizard
 [submodule "MediaWiki-Extension-RefreshSiteStatsTable"]
 	path = MediaWiki-Extension-RefreshSiteStatsTable
 	url = https://github.com/WikiMANNia/MediaWiki-Extension-RefreshSiteStatsTable
-[submodule "RemovePII"]
-	path = RemovePII
-	url = https://github.com/Miraheze/RemovePII
 [submodule "mediawikiRemoveRedlinks"]
 	path = mediawikiRemoveRedlinks
 	url = https://github.com/marohh/mediawikiRemoveRedlinks
@@ -421,54 +376,15 @@
 [submodule "SecureInclude"]
 	path = SecureInclude
 	url = https://github.com/edeso/SecureInclude
-[submodule "SemanticApprovedRevs"]
-	path = SemanticApprovedRevs
-	url = https://github.com/SemanticMediaWiki/SemanticApprovedRevs
-[submodule "SemanticBreadcrumbLinks"]
-	path = SemanticBreadcrumbLinks
-	url = https://github.com/SemanticMediaWiki/SemanticBreadcrumbLinks
-[submodule "SemanticCite"]
-	path = SemanticCite
-	url = https://github.com/SemanticMediaWiki/SemanticCite
-[submodule "SemanticExternalQueryLookup"]
-	path = SemanticExternalQueryLookup
-	url = https://github.com/SemanticMediaWiki/SemanticExternalQueryLookup
-[submodule "SemanticExtraSpecialProperties"]
-	path = SemanticExtraSpecialProperties
-	url = https://github.com/SemanticMediaWiki/SemanticExtraSpecialProperties
-[submodule "SemanticFormsSelect"]
-	path = SemanticFormsSelect
-	url = https://github.com/SemanticMediaWiki/SemanticFormsSelect
 [submodule "SemanticImageCaption"]
 	path = SemanticImageCaption
 	url = https://github.com/SemanticMediaWiki/SemanticImageCaption
-[submodule "SemanticInterlanguageLinks"]
-	path = SemanticInterlanguageLinks
-	url = https://github.com/SemanticMediaWiki/SemanticInterlanguageLinks
-[submodule "SemanticMediaWiki"]
-	path = SemanticMediaWiki
-	url = https://github.com/SemanticMediaWiki/SemanticMediaWiki
 [submodule "Semantic-MediaWiki-Graph"]
 	path = Semantic-MediaWiki-Graph
 	url = https://github.com/krabina/Semantic-MediaWiki-Graph
-[submodule "SemanticMetaTags"]
-	path = SemanticMetaTags
-	url = https://github.com/SemanticMediaWiki/SemanticMetaTags
-[submodule "SemanticNotifications"]
-	path = SemanticNotifications
-	url = https://github.com/SemanticMediaWiki/SemanticNotifications
 [submodule "SemanticOLAP"]
 	path = SemanticOLAP
 	url = https://github.com/TobiasWeller/SemanticOLAP
-[submodule "SemanticOrganization"]
-	path = SemanticOrganization
-	url = https://github.com/thaider/SemanticOrganization
-[submodule "SemanticResultFormats"]
-	path = SemanticResultFormats
-	url = https://github.com/SemanticMediaWiki/SemanticResultFormats
-[submodule "SemanticScribunto"]
-	path = SemanticScribunto
-	url = https://github.com/SemanticMediaWiki/SemanticScribunto
 [submodule "SemanticStructuredDiscussions"]
 	path = SemanticStructuredDiscussions
 	url = https://github.com/WikibaseSolutions/SemanticStructuredDiscussions
@@ -496,9 +412,6 @@
 [submodule "mediawiki-extension-SimpleTippy"]
 	path = mediawiki-extension-SimpleTippy
 	url = https://github.com/vedmaka/mediawiki-extension-SimpleTippy
-[submodule "SimpleTooltip"]
-	path = SimpleTooltip
-	url = https://github.com/Universal-Omega/SimpleTooltip
 [submodule "Mediawiki-Extension-SkinCustomiser"]
 	path = Mediawiki-Extension-SkinCustomiser
 	url = https://github.com/WikiMANNia/Mediawiki-Extension-SkinCustomiser
@@ -517,12 +430,6 @@
 [submodule "SmartComments"]
 	path = SmartComments
 	url = https://github.com/ArchiXL/SmartComments
-[submodule "SnapProjectEmbed"]
-	path = SnapProjectEmbed
-	url = https://github.com/snapwiki/SnapProjectEmbed
-[submodule "mw-snapblocks"]
-	path = mw-snapblocks
-	url = https://github.com/snap-blocks/mw-snapblocks
 [submodule "SparqlCharts"]
 	path = SparqlCharts
 	url = https://github.com/Wingoli/SparqlCharts
@@ -532,12 +439,6 @@
 [submodule "mediawiki-Extension-SpecialUserScore"]
 	path = mediawiki-Extension-SpecialUserScore
 	url = https://github.com/nicjansma/mediawiki-Extension-SpecialUserScore
-[submodule "SpeciallyCursed"]
-	path = SpeciallyCursed
-	url = https://git.average.name/BlankEclair/SpeciallyCursed
-[submodule "Spoilers"]
-	path = Spoilers
-	url = https://github.com/Telshin/Spoilers
 [submodule "mediawiki-star-rating"]
 	path = mediawiki-star-rating
 	url = https://github.com/Hercle378/mediawiki-star-rating
@@ -574,18 +475,12 @@
 [submodule "TikaAllTheFiles"]
 	path = TikaAllTheFiles
 	url = https://github.com/centertap/TikaAllTheFiles
-[submodule "Tilesheets"]
-	path = Tilesheets
-	url = https://github.com/FTB-Gamepedia/Tilesheets
 [submodule "TimedNotify"]
 	path = TimedNotify
 	url = https://github.com/WikibaseSolutions/TimedNotify
 [submodule "TimelineStats"]
 	path = TimelineStats
 	url = https://github.com/crocodilered/TimelineStats
-[submodule "TimezoneConverter"]
-	path = TimezoneConverter
-	url = https://github.com/samwilson/TimezoneConverter
 [submodule "TippingOver"]
 	path = TippingOver
 	url = https://github.com/oOeyes/TippingOver
