@@ -547,3 +547,9 @@
 [submodule "ZWIMaker"]
 	path = ZWIMaker
 	url = https://gitlab.com/ks_found/ZWIMaker/
+[submodule "SemanticOLAP"]
+	path = SemanticOLAP
+	url = https://github.com/fkrebs/SemanticOLAP.git
+[submodule "VoiceCommander"]
+	path = VoiceCommander
+	url = https://github.com/jonas-l-b/VoiceCommander.git
