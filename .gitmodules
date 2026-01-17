@@ -382,9 +382,6 @@
 [submodule "Semantic-MediaWiki-Graph"]
 	path = Semantic-MediaWiki-Graph
 	url = https://github.com/krabina/Semantic-MediaWiki-Graph
-[submodule "SemanticOLAP"]
-	path = SemanticOLAP
-	url = https://github.com/TobiasWeller/SemanticOLAP
 [submodule "SemanticStructuredDiscussions"]
 	path = SemanticStructuredDiscussions
 	url = https://github.com/WikibaseSolutions/SemanticStructuredDiscussions
@@ -502,9 +499,6 @@
 [submodule "VideoCache"]
 	path = VideoCache
 	url = https://code.librehq.com/ots/mediawiki/VideoCache/
-[submodule "VoiceCommander"]
-	path = VoiceCommander
-	url = https://github.com/TobiasWeller/VoiceCommander
 [submodule "mw-vote"]
 	path = mw-vote
 	url = https://git.push-f.com/mw-vote/
