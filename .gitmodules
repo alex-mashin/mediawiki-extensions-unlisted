@@ -496,12 +496,6 @@
 [submodule "userprofilev2"]
 	path = userprofilev2
 	url = https://gitlab.com/telepedia/extensions/userprofilev2/
-[submodule "VideoCache"]
-	path = VideoCache
-	url = https://code.librehq.com/ots/mediawiki/VideoCache/
-[submodule "mw-vote"]
-	path = mw-vote
-	url = https://git.push-f.com/mw-vote/
 [submodule "wsarrays"]
 	path = wsarrays
 	url = https://gitlab.wikibase.nl/community/wsarrays
